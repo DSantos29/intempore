@@ -6,7 +6,7 @@ Formação de um grupo de 5 integrantes para a idealização de um projeto que a
 
 <h1>Objetivo</h1>
 
-A prosposta do trabalho era montar uma página que oferecesse um produto por por assinatura que auxilia-se o Desenvolvedor Web (Front-End) na criação e na correção de problemas relacionados a Página Web.
+A prosposta do trabalho era montar uma página que oferecesse um produto por assinatura que auxilia-se o Desenvolvedor Web (Front-End) psicologicamente
 
 <br>
 
